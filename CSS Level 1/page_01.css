@@ -1,0 +1,21 @@
+p{
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#h1{
+    font-weight: lighter
+    ;
+}
+
+#one{
+    font-family: 'Courier New';
+}
+
+#two{
+    font-family: 'Franklin Gothic Medium';
+}

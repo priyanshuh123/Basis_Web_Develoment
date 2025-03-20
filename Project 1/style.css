@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url(strangerThing.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: max(1200px,100);
+    height: 760px;
+    background-size: cover;
+    position: relative;
+}
+
+.main .box{
+    height: 760px;
+    width: 100%;
+    opacity: 0.44;
+    position: absolute;
+    top: 0;
+    background-color: black;
+}
+nav{
+    max-width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

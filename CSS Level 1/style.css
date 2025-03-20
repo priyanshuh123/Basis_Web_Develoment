@@ -1,0 +1,28 @@
+h1{
+    color: peru;
+}
+
+button{
+    color: rgb(249, 248, 241);
+    background-color: chocolate;
+}
+
+body{
+    background-color: #4e0d11;
+}
+
+*{
+    color: black;
+}
+
+#headingTwo{
+                 color: blueviolet;
+}
+
+#headingOne{
+    color: chartreuse;
+}
+
+.class1{
+    color: chartreuse;
+}

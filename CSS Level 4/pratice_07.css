@@ -1,0 +1,22 @@
+div{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+/* @media(width : 600px){
+    div{
+        background-color: black;
+    }
+}
+@media(max-width:600px){
+    div{
+        background-color: green;
+    }
+} */
+
+@media(max-width:200px) and (max-width:300){
+    div{
+        background-color: oldlace;
+    }
+}
